@@ -1,0 +1,41 @@
+---
+title: <span style="color:blue">"*Metas_Internacionais*"</span>
+author: "Aline"
+date: "31/03/2022"
+output: html_document
+---
+
+
+## Metas internacionais para segurança do paciente
+
+
+![](https://thumbs.dreamstime.com/b/conceito-de-nuvem-palavra-seguran%C3%A7a-do-paciente-sobre-fundo-branco-178709827.jpg)
+
+
+Estabelecidas pela Organização Mundial da Saúde (OMS). São elas:
+
+• Identificar o paciente corretamente
+
+
+• Melhorar a eficácia da comunicação
+
+
+• Melhorar a segurança dos medicamentos de alta-vigilância
+
+
+• Assegurar cirurgias com local de intervenção correto,  procedimento correto e paciente correto
+
+
+• Reduzir o risco de infecções associadas a cuidados de saúde
+
+
+• Reduzir o risco de danos ao paciente, decorrente de quedas e lesão por pressão;
+
+
+O objetivo dessas metas é promover melhorias específicas na segurança do paciente por meio de estratégias que abordam aspectos problemáticos na assistência a saúde, apresentando soluções baseadas em evidências para esses problemas.
+
+
+
+[Clique aqui para assistir um vídeo](https://youtu.be/Wvxc6-zv8hQ)
+
+
